@@ -1,6 +1,6 @@
 # Wikiz : Local Archiving and generating quiz based on Wikipedia
 
-![ex_screenshot](https://github.com/kommiter/wikiz/demo0.png)
+![ex_screenshot](https://github.com/kommiter/wikiz/blob/main/demo0.png)
 
 Wikiz는 Wikipedia API와 OpenAI의 GPT API를 활용하여 사용자가 문서를 검색하고, 읽고, 퀴즈를 생성할 수 있는 응용 프로그램입니다. 사용자는 GPT API 키를 입력하여 프로그램의 기능을 활성화하고, 직관적인 UI를 통해 정보를 탐색할 수 있습니다.
 
